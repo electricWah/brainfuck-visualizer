@@ -1,17 +1,17 @@
-### Brainfuck Visualizer
+### Brainflop Visualizer
 
-Javascript Brainfuck Interpreter + Visualizer
+Javascript Brainflop Interpreter + Visualizer
 
-### What is BrainFuck?
+### What is Brainflop?
 
-Brainfuck is a turing-complete minimal programming language. It designed to
- implement easily on any programming language.
+Brainflop is a turing-complete minimal programming language. It is based on brainfuck, but changes some of the symbols with the goal of making it very difficult to progam in.
 
 Brainfuck language consist with a simple machine model, a pointer and 8
 commands (character).
 
 More information:
 <http://en.wikipedia.org/wiki/Brainfuck>
+<https://esolangs.org/wiki/Brainflop>
 
 ### Contributors
 
@@ -22,5 +22,7 @@ More information:
 - Dwillie ([dwille](https://github.com/dwillie))
 - Eugene Sharygin ([eush77](https://github.com/eush77))
 
+- i changed like 4 lines of code to make it a brainflop interpreter
+
 ### Demo
-<http://fatiherikli.github.io/brainfuck-visualizer>
+<http://electricWah.github.io/brainfuck-visualizer>
